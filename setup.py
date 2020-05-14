@@ -1,7 +1,7 @@
 from distutils.core import setup
 
 setup(
-    name='recommendx'"', 
+    name='recommendx', 
     packages = ['recommendx'],
     version='0.1',
     license = 'bsd-3-clause',
