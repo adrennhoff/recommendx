@@ -9,7 +9,7 @@ setup(
     author = 'Adam Rennhoff',
     author_email = 'Adam.Rennhoff@mtsu.edu',
     url = 'https://github.com/adrennhoff/recommendx',
-    download_url = 'X',
+    download_url = 'https://github.com/adrennhoff/recommendx/archive/v_01.tar.gz',
     keywords = ['machine learning','recommendation system','SVD'],
     install_requires = [
         'numpy',
