@@ -14,7 +14,7 @@ setup(
     install_requires = [
         'numpy',
         'pandas',
-    ]
+    ],
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Programming Language :: Python :: 3',
