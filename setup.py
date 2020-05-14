@@ -11,10 +11,6 @@ setup(
     url = 'https://github.com/adrennhoff/recommendx',
     download_url = 'https://github.com/adrennhoff/recommendx/archive/v_01.tar.gz',
     keywords = ['machine learning','recommendation system','SVD'],
-    install_requires = [
-        'numpy',
-        'pandas',
-    ],
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Programming Language :: Python :: 3',
