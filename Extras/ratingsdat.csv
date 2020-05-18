@@ -1,0 +1,48 @@
+userId,title,rating,AMPM
+A,Ace Ventura,4,PM
+A,Clueless,4,AM
+A,Die Hard,4,PM
+A,Iron Man,3.5,PM
+A,The Shining,4,PM
+B,Ace Ventura,3.5,PM
+B,Die Hard,4,AM
+B,Iron Man,4.5,AM
+B,The Shining,3.5,AM
+B,Get Out,4.5,PM
+C,Clueless,2,AM
+C,Die Hard,1,AM
+C,Iron Man,3,AM
+C,Get Out,5,PM
+D,Ace Ventura,5,PM
+D,Die Hard,5,PM
+D,Iron Man,5,PM
+D,The Shining,4,PM
+E,Ace Ventura,1.5,AM
+E,Die Hard,2,AM
+E,Iron Man,4.5,AM
+E,The Shining,3,PM
+F,Ace Ventura,3,AM
+F,Clueless,3,AM
+F,Die Hard,4.5,AM
+F,Iron Man,4,AM
+F,The Shining,5,AM
+G,Ace Ventura,1.5,AM
+G,Clueless,3.5,PM
+G,Die Hard,3,AM
+G,Iron Man,4.5,PM
+G,The Shining,4,AM
+H,Clueless,3,AM
+H,Die Hard,4.5,PM
+H,Iron Man,3.5,PM
+H,The Shining,4.5,AM
+I,Ace Ventura,2.5,PM
+I,Clueless,3,AM
+I,Die Hard,4,PM
+I,Get Out,3,AM
+I,Iron Man,3,PM
+I,The Shining,3.5,PM
+J,Ace Ventura,3,AM
+J,Die Hard,5,PM
+J,Get Out,5,PM
+J,Iron Man,4,PM
+J,The Shining,5,AM
