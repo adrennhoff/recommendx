@@ -6,9 +6,10 @@ This package implements a recommender system, similar to matrix factorization-ba
 This package extends the standard SVD recommender system by allowing researchers to include observed items attributes and
 also user taste parameters that vary over time. The model is fit using stochastic gradient descent.
 
-For more details on how to use the package and for several examples, please visit the [recommendx](https://github.com/adrennhoff/recommendx) Github page.
-
-The package contains two recommendation methods: `RWR` and `RWT`.
+The package contains two recommendation methods: `RWR` and `RWT`. The easiest way to obtain the package is to install via ``pip``:
+```python
+pip install recommendx
+```
 
 ## Recommendation with Regressors (RWR)
 
